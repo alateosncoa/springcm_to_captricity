@@ -7,6 +7,16 @@ import paramiko
 import os
 import shutil
 
+# the API token for captricity
+API_TOKEN = 'fb03fafb3bb14b98ad61cde92aac284a' 
+
+# the REST headers to authenticate with the captricity service
+HEADERS = {
+	'Accept':'application/json',
+	'User-Agent':'Captricity13-App',
+	'Captricity-API-Token':API_TOKEN
+}
+
 # find a file given its name (denoted by "str")
 def findFile(str):
 	print(str)
@@ -63,21 +73,17 @@ sftp.walktree('SCSEP Portal/Outbound/',findFile,listDirectory,doSomething)
 # close sftp connection to springcm	
 sftp.close()
 
+# if no outbound springcm files were found exit this application
+if len(to_captricity) == 0:
+	print("\n")
+	print("No files were found in outbound directory. Quitting app".upper())
+	sys.exit()
+
 # the timestamp that will be used as part of the batch's name when sent to captricity
 batch_timestamp = 'SCSEP-SCM ' + str(datetime.datetime.today().strftime('%Y-%m-%d %I%p'))
 
 # the base url for the captricity service
 BASE_URL = 'shreddr.captricity.com'
-
-# the API token for captricity
-API_TOKEN = 'fb03fafb3bb14b98ad61cde92aac284a' 
-
-# the REST headers to authenticate with the captricity service
-HEADERS = {
-	'Accept':'application/json',
-	'User-Agent':'Captricity13-App',
-	'Captricity-API-Token':API_TOKEN
-}
 
 # create a new empty batch to hold files
 new_batch_details = {
