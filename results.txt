@@ -1,0 +1,385 @@
+Connected to springcm 
+SCSEP Portal/Outbound/014_2017-12-18_at_0149_PM.pdf was downloaded successfully 
+SCSEP Portal/Outbound/014_2017-12-18_at_0149_PM.pdf was removed from springcm's ftp 
+014_2017-12-18_at_0149_PM.pdf was moved to the local temporary pdfs directory 
+SCSEP Portal/Outbound/014_2017-12-19_at_0703_AM.pdf was downloaded successfully 
+SCSEP Portal/Outbound/014_2017-12-19_at_0703_AM.pdf was removed from springcm's ftp 
+014_2017-12-19_at_0703_AM.pdf was moved to the local temporary pdfs directory 
+SCSEP Portal/Outbound/014_2017-12-19_at_0810_AM.pdf was downloaded successfully 
+SCSEP Portal/Outbound/014_2017-12-19_at_0810_AM.pdf was removed from springcm's ftp 
+014_2017-12-19_at_0810_AM.pdf was moved to the local temporary pdfs directory 
+SCSEP Portal/Outbound/014_2017-12-19_at_0823_AM.pdf was downloaded successfully 
+SCSEP Portal/Outbound/014_2017-12-19_at_0823_AM.pdf was removed from springcm's ftp 
+014_2017-12-19_at_0823_AM.pdf was moved to the local temporary pdfs directory 
+SCSEP Portal/Outbound/014_2017-12-19_at_0835_AM.pdf was downloaded successfully 
+SCSEP Portal/Outbound/014_2017-12-19_at_0835_AM.pdf was removed from springcm's ftp 
+014_2017-12-19_at_0835_AM.pdf was moved to the local temporary pdfs directory 
+SCSEP Portal/Outbound/014_2017-12-19_at_0852_AM (1).pdf was downloaded successfully 
+SCSEP Portal/Outbound/014_2017-12-19_at_0852_AM (1).pdf was removed from springcm's ftp 
+014_2017-12-19_at_0852_AM (1).pdf was moved to the local temporary pdfs directory 
+SCSEP Portal/Outbound/014_2017-12-19_at_0852_AM.pdf was downloaded successfully 
+SCSEP Portal/Outbound/014_2017-12-19_at_0852_AM.pdf was removed from springcm's ftp 
+014_2017-12-19_at_0852_AM.pdf was moved to the local temporary pdfs directory 
+SCSEP Portal/Outbound/014_2017-12-19_at_0855_AM.pdf was downloaded successfully 
+SCSEP Portal/Outbound/014_2017-12-19_at_0855_AM.pdf was removed from springcm's ftp 
+014_2017-12-19_at_0855_AM.pdf was moved to the local temporary pdfs directory 
+SCSEP Portal/Outbound/014_2017-12-19_at_0856_AM.pdf was downloaded successfully 
+SCSEP Portal/Outbound/014_2017-12-19_at_0856_AM.pdf was removed from springcm's ftp 
+014_2017-12-19_at_0856_AM.pdf was moved to the local temporary pdfs directory 
+SCSEP Portal/Outbound/014_2017-12-19_at_0858_AM.pdf was downloaded successfully 
+SCSEP Portal/Outbound/014_2017-12-19_at_0858_AM.pdf was removed from springcm's ftp 
+014_2017-12-19_at_0858_AM.pdf was moved to the local temporary pdfs directory 
+SCSEP Portal/Outbound/014_2017-12-19_at_0918_AM.pdf was downloaded successfully 
+SCSEP Portal/Outbound/014_2017-12-19_at_0918_AM.pdf was removed from springcm's ftp 
+014_2017-12-19_at_0918_AM.pdf was moved to the local temporary pdfs directory 
+SCSEP Portal/Outbound/014_2017-12-19_at_0930_AM.pdf was downloaded successfully 
+SCSEP Portal/Outbound/014_2017-12-19_at_0930_AM.pdf was removed from springcm's ftp 
+014_2017-12-19_at_0930_AM.pdf was moved to the local temporary pdfs directory 
+SCSEP Portal/Outbound/016_2017-12-18_at_0143_PM (1).pdf was downloaded successfully 
+SCSEP Portal/Outbound/016_2017-12-18_at_0143_PM (1).pdf was removed from springcm's ftp 
+016_2017-12-18_at_0143_PM (1).pdf was moved to the local temporary pdfs directory 
+SCSEP Portal/Outbound/016_2017-12-18_at_0406_PM (1).pdf was downloaded successfully 
+SCSEP Portal/Outbound/016_2017-12-18_at_0406_PM (1).pdf was removed from springcm's ftp 
+016_2017-12-18_at_0406_PM (1).pdf was moved to the local temporary pdfs directory 
+SCSEP Portal/Outbound/016_2017-12-18_at_0423_PM (2) (1).pdf was downloaded successfully 
+SCSEP Portal/Outbound/016_2017-12-18_at_0423_PM (2) (1).pdf was removed from springcm's ftp 
+016_2017-12-18_at_0423_PM (2) (1).pdf was moved to the local temporary pdfs directory 
+SCSEP Portal/Outbound/016_2017-12-18_at_0423_PM (3) (1).pdf was downloaded successfully 
+SCSEP Portal/Outbound/016_2017-12-18_at_0423_PM (3) (1).pdf was removed from springcm's ftp 
+016_2017-12-18_at_0423_PM (3) (1).pdf was moved to the local temporary pdfs directory 
+SCSEP Portal/Outbound/016_2017-12-18_at_1054_AM.pdf was downloaded successfully 
+SCSEP Portal/Outbound/016_2017-12-18_at_1054_AM.pdf was removed from springcm's ftp 
+016_2017-12-18_at_1054_AM.pdf was moved to the local temporary pdfs directory 
+SCSEP Portal/Outbound/016_2017-12-18_at_1107_AM.pdf was downloaded successfully 
+SCSEP Portal/Outbound/016_2017-12-18_at_1107_AM.pdf was removed from springcm's ftp 
+016_2017-12-18_at_1107_AM.pdf was moved to the local temporary pdfs directory 
+SCSEP Portal/Outbound/016_2017-12-19_at_0850_AM (1) (1).pdf was downloaded successfully 
+SCSEP Portal/Outbound/016_2017-12-19_at_0850_AM (1) (1).pdf was removed from springcm's ftp 
+016_2017-12-19_at_0850_AM (1) (1).pdf was moved to the local temporary pdfs directory 
+SCSEP Portal/Outbound/016_2017-12-19_at_0850_AM (2) (1).pdf was downloaded successfully 
+SCSEP Portal/Outbound/016_2017-12-19_at_0850_AM (2) (1).pdf was removed from springcm's ftp 
+016_2017-12-19_at_0850_AM (2) (1).pdf was moved to the local temporary pdfs directory 
+SCSEP Portal/Outbound/016_2017-12-19_at_0907_AM (1).pdf was downloaded successfully 
+SCSEP Portal/Outbound/016_2017-12-19_at_0907_AM (1).pdf was removed from springcm's ftp 
+016_2017-12-19_at_0907_AM (1).pdf was moved to the local temporary pdfs directory 
+SCSEP Portal/Outbound/016_2017-12-19_at_0915_AM (1).pdf was downloaded successfully 
+SCSEP Portal/Outbound/016_2017-12-19_at_0915_AM (1).pdf was removed from springcm's ftp 
+016_2017-12-19_at_0915_AM (1).pdf was moved to the local temporary pdfs directory 
+SCSEP Portal/Outbound/018_2017-12-18_at_0129_PM (1).pdf was downloaded successfully 
+SCSEP Portal/Outbound/018_2017-12-18_at_0129_PM (1).pdf was removed from springcm's ftp 
+018_2017-12-18_at_0129_PM (1).pdf was moved to the local temporary pdfs directory 
+SCSEP Portal/Outbound/018_2017-12-18_at_0129_PM (3).pdf was downloaded successfully 
+SCSEP Portal/Outbound/018_2017-12-18_at_0129_PM (3).pdf was removed from springcm's ftp 
+018_2017-12-18_at_0129_PM (3).pdf was moved to the local temporary pdfs directory 
+SCSEP Portal/Outbound/018_2017-12-18_at_0247_PM.pdf was downloaded successfully 
+SCSEP Portal/Outbound/018_2017-12-18_at_0247_PM.pdf was removed from springcm's ftp 
+018_2017-12-18_at_0247_PM.pdf was moved to the local temporary pdfs directory 
+SCSEP Portal/Outbound/018_2017-12-18_at_0301_PM.pdf was downloaded successfully 
+SCSEP Portal/Outbound/018_2017-12-18_at_0301_PM.pdf was removed from springcm's ftp 
+018_2017-12-18_at_0301_PM.pdf was moved to the local temporary pdfs directory 
+SCSEP Portal/Outbound/018_2017-12-18_at_0304_PM.pdf was downloaded successfully 
+SCSEP Portal/Outbound/018_2017-12-18_at_0304_PM.pdf was removed from springcm's ftp 
+018_2017-12-18_at_0304_PM.pdf was moved to the local temporary pdfs directory 
+SCSEP Portal/Outbound/018_2017-12-18_at_0735_AM.pdf was downloaded successfully 
+SCSEP Portal/Outbound/018_2017-12-18_at_0735_AM.pdf was removed from springcm's ftp 
+018_2017-12-18_at_0735_AM.pdf was moved to the local temporary pdfs directory 
+SCSEP Portal/Outbound/018_2017-12-19_at_0747_AM (2).pdf was downloaded successfully 
+SCSEP Portal/Outbound/018_2017-12-19_at_0747_AM (2).pdf was removed from springcm's ftp 
+018_2017-12-19_at_0747_AM (2).pdf was moved to the local temporary pdfs directory 
+SCSEP Portal/Outbound/018_2017-12-19_at_0816_AM (1).pdf was downloaded successfully 
+SCSEP Portal/Outbound/018_2017-12-19_at_0816_AM (1).pdf was removed from springcm's ftp 
+018_2017-12-19_at_0816_AM (1).pdf was moved to the local temporary pdfs directory 
+SCSEP Portal/Outbound/018_2017-12-19_at_0816_AM (10).pdf was downloaded successfully 
+SCSEP Portal/Outbound/018_2017-12-19_at_0816_AM (10).pdf was removed from springcm's ftp 
+018_2017-12-19_at_0816_AM (10).pdf was moved to the local temporary pdfs directory 
+SCSEP Portal/Outbound/018_2017-12-19_at_0816_AM (2).pdf was downloaded successfully 
+SCSEP Portal/Outbound/018_2017-12-19_at_0816_AM (2).pdf was removed from springcm's ftp 
+018_2017-12-19_at_0816_AM (2).pdf was moved to the local temporary pdfs directory 
+SCSEP Portal/Outbound/018_2017-12-19_at_0816_AM (3).pdf was downloaded successfully 
+SCSEP Portal/Outbound/018_2017-12-19_at_0816_AM (3).pdf was removed from springcm's ftp 
+018_2017-12-19_at_0816_AM (3).pdf was moved to the local temporary pdfs directory 
+SCSEP Portal/Outbound/018_2017-12-19_at_0816_AM (4).pdf was downloaded successfully 
+SCSEP Portal/Outbound/018_2017-12-19_at_0816_AM (4).pdf was removed from springcm's ftp 
+018_2017-12-19_at_0816_AM (4).pdf was moved to the local temporary pdfs directory 
+SCSEP Portal/Outbound/018_2017-12-19_at_0816_AM (6).pdf was downloaded successfully 
+SCSEP Portal/Outbound/018_2017-12-19_at_0816_AM (6).pdf was removed from springcm's ftp 
+018_2017-12-19_at_0816_AM (6).pdf was moved to the local temporary pdfs directory 
+SCSEP Portal/Outbound/018_2017-12-19_at_0816_AM (7).pdf was downloaded successfully 
+SCSEP Portal/Outbound/018_2017-12-19_at_0816_AM (7).pdf was removed from springcm's ftp 
+018_2017-12-19_at_0816_AM (7).pdf was moved to the local temporary pdfs directory 
+SCSEP Portal/Outbound/018_2017-12-19_at_0816_AM (8).pdf was downloaded successfully 
+SCSEP Portal/Outbound/018_2017-12-19_at_0816_AM (8).pdf was removed from springcm's ftp 
+018_2017-12-19_at_0816_AM (8).pdf was moved to the local temporary pdfs directory 
+SCSEP Portal/Outbound/018_2017-12-19_at_0816_AM (9).pdf was downloaded successfully 
+SCSEP Portal/Outbound/018_2017-12-19_at_0816_AM (9).pdf was removed from springcm's ftp 
+018_2017-12-19_at_0816_AM (9).pdf was moved to the local temporary pdfs directory 
+SCSEP Portal/Outbound/018_2017-12-19_at_0820_AM (1).pdf was downloaded successfully 
+SCSEP Portal/Outbound/018_2017-12-19_at_0820_AM (1).pdf was removed from springcm's ftp 
+018_2017-12-19_at_0820_AM (1).pdf was moved to the local temporary pdfs directory 
+SCSEP Portal/Outbound/018_2017-12-19_at_0820_AM (2).pdf was downloaded successfully 
+SCSEP Portal/Outbound/018_2017-12-19_at_0820_AM (2).pdf was removed from springcm's ftp 
+018_2017-12-19_at_0820_AM (2).pdf was moved to the local temporary pdfs directory 
+SCSEP Portal/Outbound/018_2017-12-19_at_0820_AM (3).pdf was downloaded successfully 
+SCSEP Portal/Outbound/018_2017-12-19_at_0820_AM (3).pdf was removed from springcm's ftp 
+018_2017-12-19_at_0820_AM (3).pdf was moved to the local temporary pdfs directory 
+SCSEP Portal/Outbound/018_2017-12-19_at_0820_AM (4).pdf was downloaded successfully 
+SCSEP Portal/Outbound/018_2017-12-19_at_0820_AM (4).pdf was removed from springcm's ftp 
+018_2017-12-19_at_0820_AM (4).pdf was moved to the local temporary pdfs directory 
+SCSEP Portal/Outbound/018_2017-12-19_at_0833_AM.pdf was downloaded successfully 
+SCSEP Portal/Outbound/018_2017-12-19_at_0833_AM.pdf was removed from springcm's ftp 
+018_2017-12-19_at_0833_AM.pdf was moved to the local temporary pdfs directory 
+SCSEP Portal/Outbound/018_2017-12-19_at_0838_AM.pdf was downloaded successfully 
+SCSEP Portal/Outbound/018_2017-12-19_at_0838_AM.pdf was removed from springcm's ftp 
+018_2017-12-19_at_0838_AM.pdf was moved to the local temporary pdfs directory 
+SCSEP Portal/Outbound/018_2017-12-19_at_0938_AM.pdf was downloaded successfully 
+SCSEP Portal/Outbound/018_2017-12-19_at_0938_AM.pdf was removed from springcm's ftp 
+018_2017-12-19_at_0938_AM.pdf was moved to the local temporary pdfs directory 
+SCSEP Portal/Outbound/042 - scanned time sheets 121917 1 (1).pdf was downloaded successfully 
+SCSEP Portal/Outbound/042 - scanned time sheets 121917 1 (1).pdf was removed from springcm's ftp 
+042 - scanned time sheets 121917 1 (1).pdf was moved to the local temporary pdfs directory 
+SCSEP Portal/Outbound/042 - scanned time sheets 121917 1 (2).pdf was downloaded successfully 
+SCSEP Portal/Outbound/042 - scanned time sheets 121917 1 (2).pdf was removed from springcm's ftp 
+042 - scanned time sheets 121917 1 (2).pdf was moved to the local temporary pdfs directory 
+Closed connection with springcm 
+ 
+Batch ID:  1334978
+Batch name:  SCSEP-SCM 2017-12-19 11AM
+Batch created:  2017-12-19T08:07:20.228
+Batch status:  setup
+ 
+Opened connection to captricity 
+File details: {'uploaded_file': <_io.BufferedReader name='C:\\springcm_to_captricity\\pdfs\\014_2017-12-18_at_0149_PM.pdf'>} 
+File uploaded successfully 
+This connection to captricity is closed 
+Opened connection to captricity 
+File details: {'uploaded_file': <_io.BufferedReader name='C:\\springcm_to_captricity\\pdfs\\014_2017-12-19_at_0703_AM.pdf'>} 
+File uploaded successfully 
+This connection to captricity is closed 
+Opened connection to captricity 
+File details: {'uploaded_file': <_io.BufferedReader name='C:\\springcm_to_captricity\\pdfs\\014_2017-12-19_at_0810_AM.pdf'>} 
+File uploaded successfully 
+This connection to captricity is closed 
+Opened connection to captricity 
+File details: {'uploaded_file': <_io.BufferedReader name='C:\\springcm_to_captricity\\pdfs\\014_2017-12-19_at_0823_AM.pdf'>} 
+File uploaded successfully 
+This connection to captricity is closed 
+Opened connection to captricity 
+File details: {'uploaded_file': <_io.BufferedReader name='C:\\springcm_to_captricity\\pdfs\\014_2017-12-19_at_0835_AM.pdf'>} 
+File uploaded successfully 
+This connection to captricity is closed 
+Opened connection to captricity 
+File details: {'uploaded_file': <_io.BufferedReader name='C:\\springcm_to_captricity\\pdfs\\014_2017-12-19_at_0852_AM (1).pdf'>} 
+File uploaded successfully 
+This connection to captricity is closed 
+Opened connection to captricity 
+File details: {'uploaded_file': <_io.BufferedReader name='C:\\springcm_to_captricity\\pdfs\\014_2017-12-19_at_0852_AM.pdf'>} 
+File uploaded successfully 
+This connection to captricity is closed 
+Opened connection to captricity 
+File details: {'uploaded_file': <_io.BufferedReader name='C:\\springcm_to_captricity\\pdfs\\014_2017-12-19_at_0855_AM.pdf'>} 
+File uploaded successfully 
+This connection to captricity is closed 
+Opened connection to captricity 
+File details: {'uploaded_file': <_io.BufferedReader name='C:\\springcm_to_captricity\\pdfs\\014_2017-12-19_at_0856_AM.pdf'>} 
+File uploaded successfully 
+This connection to captricity is closed 
+Opened connection to captricity 
+File details: {'uploaded_file': <_io.BufferedReader name='C:\\springcm_to_captricity\\pdfs\\014_2017-12-19_at_0858_AM.pdf'>} 
+File uploaded successfully 
+This connection to captricity is closed 
+Opened connection to captricity 
+File details: {'uploaded_file': <_io.BufferedReader name='C:\\springcm_to_captricity\\pdfs\\014_2017-12-19_at_0918_AM.pdf'>} 
+File uploaded successfully 
+This connection to captricity is closed 
+Opened connection to captricity 
+File details: {'uploaded_file': <_io.BufferedReader name='C:\\springcm_to_captricity\\pdfs\\014_2017-12-19_at_0930_AM.pdf'>} 
+File uploaded successfully 
+This connection to captricity is closed 
+Opened connection to captricity 
+File details: {'uploaded_file': <_io.BufferedReader name='C:\\springcm_to_captricity\\pdfs\\016_2017-12-18_at_0143_PM (1).pdf'>} 
+File uploaded successfully 
+This connection to captricity is closed 
+Opened connection to captricity 
+File details: {'uploaded_file': <_io.BufferedReader name='C:\\springcm_to_captricity\\pdfs\\016_2017-12-18_at_0406_PM (1).pdf'>} 
+File uploaded successfully 
+This connection to captricity is closed 
+Opened connection to captricity 
+File details: {'uploaded_file': <_io.BufferedReader name='C:\\springcm_to_captricity\\pdfs\\016_2017-12-18_at_0423_PM (2) (1).pdf'>} 
+File uploaded successfully 
+This connection to captricity is closed 
+Opened connection to captricity 
+File details: {'uploaded_file': <_io.BufferedReader name='C:\\springcm_to_captricity\\pdfs\\016_2017-12-18_at_0423_PM (3) (1).pdf'>} 
+File uploaded successfully 
+This connection to captricity is closed 
+Opened connection to captricity 
+File details: {'uploaded_file': <_io.BufferedReader name='C:\\springcm_to_captricity\\pdfs\\016_2017-12-18_at_1054_AM.pdf'>} 
+File uploaded successfully 
+This connection to captricity is closed 
+Opened connection to captricity 
+File details: {'uploaded_file': <_io.BufferedReader name='C:\\springcm_to_captricity\\pdfs\\016_2017-12-18_at_1107_AM.pdf'>} 
+File uploaded successfully 
+This connection to captricity is closed 
+Opened connection to captricity 
+File details: {'uploaded_file': <_io.BufferedReader name='C:\\springcm_to_captricity\\pdfs\\016_2017-12-19_at_0850_AM (1) (1).pdf'>} 
+File uploaded successfully 
+This connection to captricity is closed 
+Opened connection to captricity 
+File details: {'uploaded_file': <_io.BufferedReader name='C:\\springcm_to_captricity\\pdfs\\016_2017-12-19_at_0850_AM (2) (1).pdf'>} 
+File uploaded successfully 
+This connection to captricity is closed 
+Opened connection to captricity 
+File details: {'uploaded_file': <_io.BufferedReader name='C:\\springcm_to_captricity\\pdfs\\016_2017-12-19_at_0907_AM (1).pdf'>} 
+File uploaded successfully 
+This connection to captricity is closed 
+Opened connection to captricity 
+File details: {'uploaded_file': <_io.BufferedReader name='C:\\springcm_to_captricity\\pdfs\\016_2017-12-19_at_0915_AM (1).pdf'>} 
+File uploaded successfully 
+This connection to captricity is closed 
+Opened connection to captricity 
+File details: {'uploaded_file': <_io.BufferedReader name='C:\\springcm_to_captricity\\pdfs\\018_2017-12-18_at_0129_PM (1).pdf'>} 
+File uploaded successfully 
+This connection to captricity is closed 
+Opened connection to captricity 
+File details: {'uploaded_file': <_io.BufferedReader name='C:\\springcm_to_captricity\\pdfs\\018_2017-12-18_at_0129_PM (3).pdf'>} 
+File uploaded successfully 
+This connection to captricity is closed 
+Opened connection to captricity 
+File details: {'uploaded_file': <_io.BufferedReader name='C:\\springcm_to_captricity\\pdfs\\018_2017-12-18_at_0247_PM.pdf'>} 
+File uploaded successfully 
+This connection to captricity is closed 
+Opened connection to captricity 
+File details: {'uploaded_file': <_io.BufferedReader name='C:\\springcm_to_captricity\\pdfs\\018_2017-12-18_at_0301_PM.pdf'>} 
+File uploaded successfully 
+This connection to captricity is closed 
+Opened connection to captricity 
+File details: {'uploaded_file': <_io.BufferedReader name='C:\\springcm_to_captricity\\pdfs\\018_2017-12-18_at_0304_PM.pdf'>} 
+File uploaded successfully 
+This connection to captricity is closed 
+Opened connection to captricity 
+File details: {'uploaded_file': <_io.BufferedReader name='C:\\springcm_to_captricity\\pdfs\\018_2017-12-18_at_0735_AM.pdf'>} 
+File uploaded successfully 
+This connection to captricity is closed 
+Opened connection to captricity 
+File details: {'uploaded_file': <_io.BufferedReader name='C:\\springcm_to_captricity\\pdfs\\018_2017-12-19_at_0747_AM (2).pdf'>} 
+File uploaded successfully 
+This connection to captricity is closed 
+Opened connection to captricity 
+File details: {'uploaded_file': <_io.BufferedReader name='C:\\springcm_to_captricity\\pdfs\\018_2017-12-19_at_0816_AM (1).pdf'>} 
+File uploaded successfully 
+This connection to captricity is closed 
+Opened connection to captricity 
+File details: {'uploaded_file': <_io.BufferedReader name='C:\\springcm_to_captricity\\pdfs\\018_2017-12-19_at_0816_AM (10).pdf'>} 
+File uploaded successfully 
+This connection to captricity is closed 
+Opened connection to captricity 
+File details: {'uploaded_file': <_io.BufferedReader name='C:\\springcm_to_captricity\\pdfs\\018_2017-12-19_at_0816_AM (2).pdf'>} 
+File uploaded successfully 
+This connection to captricity is closed 
+Opened connection to captricity 
+File details: {'uploaded_file': <_io.BufferedReader name='C:\\springcm_to_captricity\\pdfs\\018_2017-12-19_at_0816_AM (3).pdf'>} 
+File uploaded successfully 
+This connection to captricity is closed 
+Opened connection to captricity 
+File details: {'uploaded_file': <_io.BufferedReader name='C:\\springcm_to_captricity\\pdfs\\018_2017-12-19_at_0816_AM (4).pdf'>} 
+File uploaded successfully 
+This connection to captricity is closed 
+Opened connection to captricity 
+File details: {'uploaded_file': <_io.BufferedReader name='C:\\springcm_to_captricity\\pdfs\\018_2017-12-19_at_0816_AM (6).pdf'>} 
+File uploaded successfully 
+This connection to captricity is closed 
+Opened connection to captricity 
+File details: {'uploaded_file': <_io.BufferedReader name='C:\\springcm_to_captricity\\pdfs\\018_2017-12-19_at_0816_AM (7).pdf'>} 
+File uploaded successfully 
+This connection to captricity is closed 
+Opened connection to captricity 
+File details: {'uploaded_file': <_io.BufferedReader name='C:\\springcm_to_captricity\\pdfs\\018_2017-12-19_at_0816_AM (8).pdf'>} 
+File uploaded successfully 
+This connection to captricity is closed 
+Opened connection to captricity 
+File details: {'uploaded_file': <_io.BufferedReader name='C:\\springcm_to_captricity\\pdfs\\018_2017-12-19_at_0816_AM (9).pdf'>} 
+File uploaded successfully 
+This connection to captricity is closed 
+Opened connection to captricity 
+File details: {'uploaded_file': <_io.BufferedReader name='C:\\springcm_to_captricity\\pdfs\\018_2017-12-19_at_0820_AM (1).pdf'>} 
+File uploaded successfully 
+This connection to captricity is closed 
+Opened connection to captricity 
+File details: {'uploaded_file': <_io.BufferedReader name='C:\\springcm_to_captricity\\pdfs\\018_2017-12-19_at_0820_AM (2).pdf'>} 
+File uploaded successfully 
+This connection to captricity is closed 
+Opened connection to captricity 
+File details: {'uploaded_file': <_io.BufferedReader name='C:\\springcm_to_captricity\\pdfs\\018_2017-12-19_at_0820_AM (3).pdf'>} 
+File uploaded successfully 
+This connection to captricity is closed 
+Opened connection to captricity 
+File details: {'uploaded_file': <_io.BufferedReader name='C:\\springcm_to_captricity\\pdfs\\018_2017-12-19_at_0820_AM (4).pdf'>} 
+File uploaded successfully 
+This connection to captricity is closed 
+Opened connection to captricity 
+File details: {'uploaded_file': <_io.BufferedReader name='C:\\springcm_to_captricity\\pdfs\\018_2017-12-19_at_0833_AM.pdf'>} 
+File uploaded successfully 
+This connection to captricity is closed 
+Opened connection to captricity 
+File details: {'uploaded_file': <_io.BufferedReader name='C:\\springcm_to_captricity\\pdfs\\018_2017-12-19_at_0838_AM.pdf'>} 
+File uploaded successfully 
+This connection to captricity is closed 
+Opened connection to captricity 
+File details: {'uploaded_file': <_io.BufferedReader name='C:\\springcm_to_captricity\\pdfs\\018_2017-12-19_at_0938_AM.pdf'>} 
+File uploaded successfully 
+This connection to captricity is closed 
+Opened connection to captricity 
+File details: {'uploaded_file': <_io.BufferedReader name='C:\\springcm_to_captricity\\pdfs\\042 - scanned time sheets 121917 1 (1).pdf'>} 
+File uploaded successfully 
+This connection to captricity is closed 
+Opened connection to captricity 
+File details: {'uploaded_file': <_io.BufferedReader name='C:\\springcm_to_captricity\\pdfs\\042 - scanned time sheets 121917 1 (2).pdf'>} 
+File uploaded successfully 
+This connection to captricity is closed 
+The batch was successfully submitted to and acknowledged by captricity 
+C:\springcm_to_captricity\pdfs\014_2017-12-18_at_0149_PM.pdf was removed from the local temp folder 
+C:\springcm_to_captricity\pdfs\014_2017-12-19_at_0703_AM.pdf was removed from the local temp folder 
+C:\springcm_to_captricity\pdfs\014_2017-12-19_at_0810_AM.pdf was removed from the local temp folder 
+C:\springcm_to_captricity\pdfs\014_2017-12-19_at_0823_AM.pdf was removed from the local temp folder 
+C:\springcm_to_captricity\pdfs\014_2017-12-19_at_0835_AM.pdf was removed from the local temp folder 
+C:\springcm_to_captricity\pdfs\014_2017-12-19_at_0852_AM (1).pdf was removed from the local temp folder 
+C:\springcm_to_captricity\pdfs\014_2017-12-19_at_0852_AM.pdf was removed from the local temp folder 
+C:\springcm_to_captricity\pdfs\014_2017-12-19_at_0855_AM.pdf was removed from the local temp folder 
+C:\springcm_to_captricity\pdfs\014_2017-12-19_at_0856_AM.pdf was removed from the local temp folder 
+C:\springcm_to_captricity\pdfs\014_2017-12-19_at_0858_AM.pdf was removed from the local temp folder 
+C:\springcm_to_captricity\pdfs\014_2017-12-19_at_0918_AM.pdf was removed from the local temp folder 
+C:\springcm_to_captricity\pdfs\014_2017-12-19_at_0930_AM.pdf was removed from the local temp folder 
+C:\springcm_to_captricity\pdfs\016_2017-12-18_at_0143_PM (1).pdf was removed from the local temp folder 
+C:\springcm_to_captricity\pdfs\016_2017-12-18_at_0406_PM (1).pdf was removed from the local temp folder 
+C:\springcm_to_captricity\pdfs\016_2017-12-18_at_0423_PM (2) (1).pdf was removed from the local temp folder 
+C:\springcm_to_captricity\pdfs\016_2017-12-18_at_0423_PM (3) (1).pdf was removed from the local temp folder 
+C:\springcm_to_captricity\pdfs\016_2017-12-18_at_1054_AM.pdf was removed from the local temp folder 
+C:\springcm_to_captricity\pdfs\016_2017-12-18_at_1107_AM.pdf was removed from the local temp folder 
+C:\springcm_to_captricity\pdfs\016_2017-12-19_at_0850_AM (1) (1).pdf was removed from the local temp folder 
+C:\springcm_to_captricity\pdfs\016_2017-12-19_at_0850_AM (2) (1).pdf was removed from the local temp folder 
+C:\springcm_to_captricity\pdfs\016_2017-12-19_at_0907_AM (1).pdf was removed from the local temp folder 
+C:\springcm_to_captricity\pdfs\016_2017-12-19_at_0915_AM (1).pdf was removed from the local temp folder 
+C:\springcm_to_captricity\pdfs\018_2017-12-18_at_0129_PM (1).pdf was removed from the local temp folder 
+C:\springcm_to_captricity\pdfs\018_2017-12-18_at_0129_PM (3).pdf was removed from the local temp folder 
+C:\springcm_to_captricity\pdfs\018_2017-12-18_at_0247_PM.pdf was removed from the local temp folder 
+C:\springcm_to_captricity\pdfs\018_2017-12-18_at_0301_PM.pdf was removed from the local temp folder 
+C:\springcm_to_captricity\pdfs\018_2017-12-18_at_0304_PM.pdf was removed from the local temp folder 
+C:\springcm_to_captricity\pdfs\018_2017-12-18_at_0735_AM.pdf was removed from the local temp folder 
+C:\springcm_to_captricity\pdfs\018_2017-12-19_at_0747_AM (2).pdf was removed from the local temp folder 
+C:\springcm_to_captricity\pdfs\018_2017-12-19_at_0816_AM (1).pdf was removed from the local temp folder 
+C:\springcm_to_captricity\pdfs\018_2017-12-19_at_0816_AM (10).pdf was removed from the local temp folder 
+C:\springcm_to_captricity\pdfs\018_2017-12-19_at_0816_AM (2).pdf was removed from the local temp folder 
+C:\springcm_to_captricity\pdfs\018_2017-12-19_at_0816_AM (3).pdf was removed from the local temp folder 
+C:\springcm_to_captricity\pdfs\018_2017-12-19_at_0816_AM (4).pdf was removed from the local temp folder 
+C:\springcm_to_captricity\pdfs\018_2017-12-19_at_0816_AM (6).pdf was removed from the local temp folder 
+C:\springcm_to_captricity\pdfs\018_2017-12-19_at_0816_AM (7).pdf was removed from the local temp folder 
+C:\springcm_to_captricity\pdfs\018_2017-12-19_at_0816_AM (8).pdf was removed from the local temp folder 
+C:\springcm_to_captricity\pdfs\018_2017-12-19_at_0816_AM (9).pdf was removed from the local temp folder 
+C:\springcm_to_captricity\pdfs\018_2017-12-19_at_0820_AM (1).pdf was removed from the local temp folder 
+C:\springcm_to_captricity\pdfs\018_2017-12-19_at_0820_AM (2).pdf was removed from the local temp folder 
+C:\springcm_to_captricity\pdfs\018_2017-12-19_at_0820_AM (3).pdf was removed from the local temp folder 
+C:\springcm_to_captricity\pdfs\018_2017-12-19_at_0820_AM (4).pdf was removed from the local temp folder 
+C:\springcm_to_captricity\pdfs\018_2017-12-19_at_0833_AM.pdf was removed from the local temp folder 
+C:\springcm_to_captricity\pdfs\018_2017-12-19_at_0838_AM.pdf was removed from the local temp folder 
+C:\springcm_to_captricity\pdfs\018_2017-12-19_at_0938_AM.pdf was removed from the local temp folder 
+C:\springcm_to_captricity\pdfs\042 - scanned time sheets 121917 1 (1).pdf was removed from the local temp folder 
+C:\springcm_to_captricity\pdfs\042 - scanned time sheets 121917 1 (2).pdf was removed from the local temp folder 
